@@ -1,0 +1,260 @@
+{
+  "rootTopicKey": "ff481f8e-6dce-4ded-9351-e33a28f990f9",
+  "editorRootTopicKey": "ff481f8e-6dce-4ded-9351-e33a28f990f9",
+  "focusKey": "2864c34f-8577-4f29-b8ed-63ef3dfaf5aa",
+  "extData": {
+    "TOPIC_REFERENCE": {
+      "reference": {}
+    }
+  },
+  "topics": [
+    {
+      "key": "2864c34f-8577-4f29-b8ed-63ef3dfaf5aa",
+      "parentKey": "6d7e538b-ca99-432f-8014-b0f9d4d8bd93",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "session-manager-plugin"
+        }
+      ]
+    },
+    {
+      "key": "9fd56129-fed6-4a08-97e7-020608e08970",
+      "parentKey": "b80026c8-4e10-454d-a3cf-48a49c98adba",
+      "subKeys": [],
+      "collapse": false,
+      "style": "{\"contentStyle\":{\"fontSize\":12}}",
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "helm"
+        }
+      ]
+    },
+    {
+      "key": "e20d7f41-3828-4d6b-a2d3-3dca5be52049",
+      "parentKey": "cff51037-2954-4067-92ad-8a06d6f715e5",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "adr-tools"
+        }
+      ]
+    },
+    {
+      "key": "ff481f8e-6dce-4ded-9351-e33a28f990f9",
+      "parentKey": null,
+      "subKeys": [
+        "aa61548a-a95c-4e8f-a47b-1f1ad7266642",
+        "383c2c71-2eb4-494d-9dd7-198faf3828ae",
+        "b80026c8-4e10-454d-a3cf-48a49c98adba",
+        "cff51037-2954-4067-92ad-8a06d6f715e5",
+        "6d7e538b-ca99-432f-8014-b0f9d4d8bd93"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "tools"
+        }
+      ]
+    },
+    {
+      "key": "f3cbea01-df99-48df-83e1-41b36e232c50",
+      "parentKey": "383c2c71-2eb4-494d-9dd7-198faf3828ae",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "git-secret"
+        }
+      ]
+    },
+    {
+      "key": "1553d8df-4404-45b4-809d-964169a05985",
+      "parentKey": "b80026c8-4e10-454d-a3cf-48a49c98adba",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "kubectx"
+        }
+      ]
+    },
+    {
+      "key": "45621e00-fb24-4a4d-a914-58efc741f493",
+      "parentKey": "6d7e538b-ca99-432f-8014-b0f9d4d8bd93",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "aws-sso-util"
+        }
+      ]
+    },
+    {
+      "key": "cff51037-2954-4067-92ad-8a06d6f715e5",
+      "parentKey": "ff481f8e-6dce-4ded-9351-e33a28f990f9",
+      "subKeys": [
+        "e20d7f41-3828-4d6b-a2d3-3dca5be52049"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Architecture diagram"
+        }
+      ]
+    },
+    {
+      "key": "883c721f-6373-4a6a-96af-62d52762bae2",
+      "parentKey": "aa61548a-a95c-4e8f-a47b-1f1ad7266642",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "jq"
+        }
+      ]
+    },
+    {
+      "key": "aa61548a-a95c-4e8f-a47b-1f1ad7266642",
+      "parentKey": "ff481f8e-6dce-4ded-9351-e33a28f990f9",
+      "subKeys": [
+        "883c721f-6373-4a6a-96af-62d52762bae2"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "shell"
+        }
+      ]
+    },
+    {
+      "key": "0d572cc5-2922-4659-abb5-b9ca85f797d8",
+      "parentKey": "6d7e538b-ca99-432f-8014-b0f9d4d8bd93",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "awsume"
+        }
+      ]
+    },
+    {
+      "key": "383c2c71-2eb4-494d-9dd7-198faf3828ae",
+      "parentKey": "ff481f8e-6dce-4ded-9351-e33a28f990f9",
+      "subKeys": [
+        "f3cbea01-df99-48df-83e1-41b36e232c50"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "git"
+        }
+      ]
+    },
+    {
+      "key": "b80026c8-4e10-454d-a3cf-48a49c98adba",
+      "parentKey": "ff481f8e-6dce-4ded-9351-e33a28f990f9",
+      "subKeys": [
+        "1553d8df-4404-45b4-809d-964169a05985",
+        "9fd56129-fed6-4a08-97e7-020608e08970"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "k8s"
+        }
+      ]
+    },
+    {
+      "key": "6d7e538b-ca99-432f-8014-b0f9d4d8bd93",
+      "parentKey": "ff481f8e-6dce-4ded-9351-e33a28f990f9",
+      "subKeys": [
+        "0d572cc5-2922-4659-abb5-b9ca85f797d8",
+        "45621e00-fb24-4a4d-a914-58efc741f493",
+        "2864c34f-8577-4f29-b8ed-63ef3dfaf5aa"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "AWS"
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 0,
+    "theme": {
+      "name": "default",
+      "randomColor": true,
+      "background": "rgb(57,60,65)",
+      "highlightColor": "#50C9CE",
+      "marginH": 60,
+      "marginV": 20,
+      "contentStyle": {
+        "lineHeight": "1.5",
+        "fontSize": "16px"
+      },
+      "linkStyle": {
+        "lineRadius": 5,
+        "lineType": "curve",
+        "lineWidth": "3px"
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "fontSize": "36px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "fontSize": "24px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "normalTopic": {
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      }
+    }
+  },
+  "formatVersion": null
+}
